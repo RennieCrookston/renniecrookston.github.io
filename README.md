@@ -16,6 +16,6 @@ Welcome to my analytics portfolio! I'm a data-driven problem solver with a passi
 
 📄 [Download My Resume (PDF)](assets/resume.pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/renniecrookston)  
-📧  renniecrookston@gmail.com
+📧 renniecrookston@gmail.com
 
 Thanks for stopping by!
