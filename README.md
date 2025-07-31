@@ -15,7 +15,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 **A Snapshot of The Project**
  [![Dashboard Preview](assets/Qlik Sense - Tenure Matters - Dashboard Preview.jpeg)]((https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/d794c809-0f35-4927-8d5d-1c1861d31197/sheet/pjxayjG/state/analysis))
 <p align="center">
-  <img src="assets/dashboard-preview.jpg" alt="Dashboard Preview" width="600"/>
+  <img src="assets/Qlik Sense - Tenure Matters - Dashboard Preview.jpeg" alt="Dashboard Preview" width="600"/>
 </p>
 
 ---
