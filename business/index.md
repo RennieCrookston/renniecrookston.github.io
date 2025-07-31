@@ -1,9 +1,9 @@
-# 🏢 Business Analytics Projects
+# Business Analytics Projects
 
-Explore a selection of business-focused data projects that demonstrate problem-solving with SQL, Excel, and dashboards.
+Explore a selection of business-focused data projects that demonstrate problem-solving with various analytical tools and softwares.
 
 ---
 
-## 📊 Sales & Profitability Dashboard  
-Placeholder for a Qlik-based dashboard project focused on employee tenure and key KPIs.  
+## 📊 Telecom Customer Churn Prediction Model & Visualization Project
+
 🔗 [View Project](../projects/business/project-1-sales-analysis/)
