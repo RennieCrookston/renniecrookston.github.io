@@ -112,7 +112,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 
 ## 📊 Deliverables
 
-- ✅ [Live Qlik Dashboard]([https://(https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/d794c809-0f35-4927-8d5d-1c1861d31197/sheet/pjxayjG/state/analysis))
+- ✅ [Live Qlik Dashboard](https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/d794c809-0f35-4927-8d5d-1c1861d31197/sheet/pjxayjG/state/analysis)
 - ✅ [Prediction Model Details (PDF)](../../../assets/ChurnPredictionModelReport.pdf)
 - ✅ [Project Write-UP (PDF)](../../../assets/ProjectWriteup.pdf)
 - ✅ [Cleaned Training Dataset (CSV)](../../../assets/TelecomChurnDataCleanedinSQL.csv)
