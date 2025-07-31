@@ -110,17 +110,21 @@ This project demonstrates an end-to-end analytical approach to predict customer 
   </p>
 </details>
 
-## 📊 Deliverables (Uploading soon)
-- ✅ Live Qlik Dashboard
-- ✅ Prediction Model Details
-- ✅ Project Write-UP
-- ✅ Post SQL cleaned dataset used to train predictive model
+## 📊 Deliverables
+
+- ✅ [Live Qlik Dashboard]([https://your-dashboard-link.com](https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/d794c809-0f35-4927-8d5d-1c1861d31197/sheet/pjxayjG/state/analysis))
+- ✅ [Prediction Model Details (PDF)](../../../assets/ChurnPredictionModelReport.pdf)
+- ✅ [Project Write-UP (PDF)](../../../assets/ProjectWriteup.pdf)
+- ✅ [Cleaned Training Dataset (CSV)](../../../assets/TelecomChurnDataCleanedinSQL.csv)
 
 ## 📄 Additional Files
-- List of SQL Queries Used
-- MySQL File
-- Original CSV
-- Apply Datasets (Small & Large)
+
+- [SQL Queries Used](../../../assets/telco_customer_churn-2.sql)
+- [MySQL Script File](../../../assets/mysql-create-tables.sql)
+- [Original CSV Dataset](../../../assets/OriginalTelecomKaggleDataset.csv)
+- [Apply Dataset (Small)](../../../assets/Telcom_Churn_Simulated_Apply_Dataset.csv)
+- [Apply Dataset (Large)](../../../assets/Telcom_Churn_Simulated_Apply_Dataset_Large.csv)
+
 
 ## 💡 Lessons Learned (Coming Soon)
 
