@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 This project demonstrates an end-to-end analytical approach to predict customer churn for a telecommunications company. I utilized MySQL for robust data cleaning and engineering insightful new features, then employed Qlik Cloud Analytics' AutoML capabilities to build and evaluate a predictive model. The resulting Qlik Sense dashboard provides interactive visualizations of key churn drivers and actionable insights, enabling targeted strategies to reduce customer attrition and optimize retention efforts.
 
-## 📄 Project Write-UP/Report
+## 📄 Condensed Project Write-UP/Report
 <p>
     <strong>Customer Churn Prediction Project: Driving Retention with Qlik Analytics</strong>
 </p>
