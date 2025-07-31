@@ -6,7 +6,7 @@ Welcome! I'm a data-driven problem solver with a passion for turning raw informa
 
 ## 🔍 Featured Projects
 
-### 📊 Telecom Customer Churn Prediction Model & Visualization Project
+### [📊 Telecom Customer Churn Prediction Model & Visualization Project](projects/business/project-1-sales-analysis/)
 **Tools:** SQL, Qlik Cloud Analytics
 
 **Summary:** Leveraging data to proactively retain customers and drive business growth.  
