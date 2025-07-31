@@ -92,12 +92,17 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 
 </details>
 
-## 📊 Deliverables
-- ✅ [Live Qlik Dashboard](#)  
-- ✅ Data Files  
-- ✅ Project Summary PDF
+## 📊 Deliverables (Uploading soon)
+- ✅ Live Qlik Dashboard
+- ✅ Prediction Model Details
+- ✅ Project Write-UP
+- ✅ Post SQL cleaned dataset used to train predictive model
 
-📄 [Download Placeholder PDF Dashboard](../../../assets/dashboard.pdf)
+## 📄 Additional Files
+- List of SQL Queries Used
+- MySQL File
+- Original CSV
+- Apply Datasets (Small & Large)
 
 ## 💡 Lessons Learned (Coming Soon)
-To be added once the full write-up is complete.
+
