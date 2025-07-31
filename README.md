@@ -16,7 +16,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 
 <p align="center">
   <a href="https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/d794c809-0f35-4927-8d5d-1c1861d31197/sheet/pjxayjG/state/analysis">
-    <img src="assets/Qlik%20Sense%20-%20Tenure%20Matters%20-%20Dashboard%20Preview.jpeg" alt="Dashboard Preview" width="600"/>
+    <img src="assets/QlikSense-TenureMatters-DashboardPreview.jpg" alt="Dashboard Preview" width="600"/>
   </a>
 </p>
 
