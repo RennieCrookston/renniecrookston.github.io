@@ -36,3 +36,9 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 ---
 
 Thanks for stopping by!
+
+---
+
+<p align="center">
+  <small>© 2025 Rennie Crookston | Built with GitHub Pages & Jekyll</small>
+</p>
