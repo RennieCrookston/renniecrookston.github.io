@@ -126,5 +126,10 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 - [Apply Dataset (Large)](../../../assets/Telcom_Churn_Simulated_Apply_Dataset_Large.csv)
 
 
-## 💡 Lessons Learned (Coming Soon)
+---
+
+<p align="center">
+  <small>© 2025 Rennie Crookston | Built with GitHub Pages & Jekyll</small>
+</p>
+
 
