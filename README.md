@@ -3,9 +3,8 @@
 </head>
  <p align="center">
   <a href="https://renniecrookston.github.io">🏠 Home</a> •
-  <a href="#featured-projects">📁 Projects</a> •
-  <a href="#skills">🛠️ Skills</a> •
-  <a href="#get-in-touch">📬 Contact</a>
+  <a href="#Explore Project by Category">📁 Projects</a> •
+  <a href="#Resume & Contact">📬 Contact</a>
 </p>
 
 ---
