@@ -2,7 +2,6 @@
   <link rel="icon" type="image/png" href="/favicon.png">
 </head>
 <p align="center">
-
 ---
 
 Welcome! I'm a data-driven problem solver with a passion for turning raw information into actionable business insights. This site showcases a collection of projects I've built across analytics, dashboarding, and data science.
