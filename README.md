@@ -2,8 +2,8 @@
   <link rel="icon" type="image/png" href="/favicon.png">
 </head>
 <p align="center">
-  <a href="#featured-projects">📊 Projects</a> •
-  <a href="#explore-projects-by-category">📂 Explore</a> •
+
+  <a href="#explore-projects-by-category">📂 Projects</a> •
   <a href="#resume--contact">📬 Contact</a>
 </p>
 
