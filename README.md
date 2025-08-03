@@ -1,10 +1,10 @@
 <head>
   <link rel="icon" type="image/png" href="/favicon.png">
 </head>
- <p align="center">
-  <a href="https://renniecrookston.github.io">🏠 Home</a> •
-  <a href="#Explore Project by Category">📁 Projects</a> •
-  <a href="#Resume & Contact">📬 Contact</a>
+<p align="center">
+  <a href="#featured-projects">📊 Projects</a> •
+  <a href="#explore-projects-by-category">📂 Explore</a> •
+  <a href="#resume--contact">📬 Contact</a>
 </p>
 
 ---
