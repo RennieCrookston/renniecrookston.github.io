@@ -8,6 +8,9 @@ Explore a selection of business-focused data projects that demonstrate problem-s
 
 🔗 [View Project](../projects/business/project-1-sales-analysis/)
 
+## Supply Chain Bottleneck Analysis
+
+🔗[View Project](../projects/business/project-2-supply-chain-analysis/)
 
 ---
 
