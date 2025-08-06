@@ -7,3 +7,18 @@
 ## 📌 Project Overview
 
 ## 📄 Full Project Write-UP/Report
+
+## 📊 Deliverables
+
+- ✅ 
+
+## 📄 Additional Files
+
+- 
+---
+
+<p align="center">
+  <small>© 2025 Rennie Crookston | Built with GitHub Pages & Jekyll</small>
+</p>
+
+
