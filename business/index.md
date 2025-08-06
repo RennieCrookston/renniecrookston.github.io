@@ -1,4 +1,4 @@
-# Business Analytics Projects
+# Business & Supply Chain Analytics Projects
 
 Explore a selection of business-focused data projects that demonstrate problem-solving with various analytical tools and softwares.
 
