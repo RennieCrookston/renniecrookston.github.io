@@ -29,7 +29,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 
 <p align="center">
   <a href="https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/8c2a9ae7-b420-4f8b-8fcf-3611a5b03eae/sheet/hejCP/state/analysis>
-    <img src="assets/QlikSense-SupplyChainDefects,LeadTimes&VendorInsights.JPEG" alt="Dashboard Preview" width="600"/>
+    <img src="assets/QlikSense-SupplyChainDefects,LeadTimes&VendorInsights" alt="Dashboard Preview" width="600"/>
   </a>
 </p>
 
