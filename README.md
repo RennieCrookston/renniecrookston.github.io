@@ -24,7 +24,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 
 ## 📂 Explore Projects by Category
 
-🔗 [Business Analytics](business/)
+🔗 [Business & Supply Chain Analytics](business/)
 
 ---
 
