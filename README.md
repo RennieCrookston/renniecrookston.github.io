@@ -20,6 +20,19 @@ This project demonstrates an end-to-end analytical approach to predict customer 
   </a>
 </p>
 
+### [📊 Supply Chain Performance & Bottleneck Analysis ](projects/business/project-2-supply-chain-analysis/)
+**Tools:** Python, SQL, Qlik Cloud Analytics
+
+**Summary:** This project focused on a comprehensive analysis of a simulated supply chain to identify and address operational inefficiencies. By starting with a small dataset and augmenting it to a more realistic size of over 10,000 rows using a Python script, the project demonstrated a strong foundation in data engineering. The data was meticulously cleaned and enhanced in MySQL with new features like Total_Cost, Total_Lead_Time, and a Cost_Category. The final insights were presented in a dynamic Qlik Sense dashboard, which visually highlighted a manufacturing bottleneck, exposed quality issues by product type and supplier, and analyzed the cost-time trade-offs of shipping carriers. The project successfully translated complex data into clear, actionable recommendations for improving overall supply chain performance.
+
+**A Snapshot of The Project**
+
+<p align="center">
+  <a href="https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/8c2a9ae7-b420-4f8b-8fcf-3611a5b03eae/sheet/hejCP/state/analysis>
+    <img src="assets/QlikSense-SupplyChainDefects,LeadTimes&VendorInsights.JPEG" alt="Dashboard Preview" width="600"/>
+  </a>
+</p>
+
 ---
 
 ## 📂 Explore Projects by Category
