@@ -28,7 +28,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
 **A Snapshot of The Project**
 
 <p align="center">
-  <a href="https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/8c2a9ae7-b420-4f8b-8fcf-3611a5b03eae/sheet/hejCP/state/analysis>
+<a href="https://gblqb7f3bd41gee.us.qlikcloud.com/sense/app/8c2a9ae7-b420-4f8b-8fcf-3611a5b03eae/sheet/hejCP/state/analysis">
  <img src="assets/Qlik-Sense-Supply-Chain-Defects-Lead-Times-Vendor-Insights.jpg" alt="Dashboard Preview" width="100%"/>
   </a>
 </p>
