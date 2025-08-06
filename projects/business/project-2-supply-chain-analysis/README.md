@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction Model & Visualization Project
+# Supply Chain Bottleneck Analysis Project
 
 **Category:** Business Analytics  
 **Tools Used:** Python (with LLM assistance), SQL, Qlik Cloud Analytics  
