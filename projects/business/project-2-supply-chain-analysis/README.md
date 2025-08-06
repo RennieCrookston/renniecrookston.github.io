@@ -1,5 +1,9 @@
-**Tools:** SQL, Power BI / Excel Power Query
+# Telecom Customer Churn Prediction Model & Visualization Project
 
-**Summary:** A performance-focused supply chain analysis project using simulated order and delivery data to detect bottlenecks, analyze trends, and recommend process improvements. Key KPIs like delay causes, on-time delivery trends, and warehouse throughput were visualized in a dashboard to enable real-time operational insights.
+**Category:** Business Analytics  
+**Tools Used:** Python (with LLM assistance), SQL, Qlik Cloud Analytics  
+**Dataset Size:** 101 (original csv) and 10,101 (after python generation) rows respectively (Refer to project write up)
 
-**A Snapshot of The Project**
+## 📌 Project Overview
+
+## 📄 Full Project Write-UP/Report
