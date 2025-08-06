@@ -32,7 +32,7 @@ This project demonstrates an end-to-end analytical approach to predict customer 
  <img src="assets/QlikSenseSupplyChainDefectsLeadTimesVendorInsights.jpg" alt="Dashboard Preview" width="600"/>
   </a>
 </p>
-
+ 
 ---
 
 ## 📂 Explore Projects by Category
