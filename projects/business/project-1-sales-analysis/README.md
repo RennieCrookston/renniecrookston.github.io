@@ -1,7 +1,7 @@
 # Telecom Customer Churn Prediction Model & Visualization Project
 
 **Category:** Business Analytics  
-**Tools Used:** SQL, Qlik Cloud Analytics  
+**Tools Used:** SQL, Qlik AutoML & Cloud Analytics  
 **Dataset Size:** 7,043 (original csv) and 6,858 (apply dataset) rows respectively (Refer to project write up)
 
 ## 📌 Project Overview
