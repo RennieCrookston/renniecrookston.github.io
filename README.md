@@ -7,7 +7,7 @@ Welcome! I'm a data-driven problem solver with a passion for turning raw informa
 ## 🔍 Featured Projects
 
 ### [📊 Telecom Customer Churn Prediction Model & Visualization Project](projects/business/project-1-sales-analysis/)
-**Tools:** SQL, Qlik Cloud Analytics
+**Tools:** SQL, Qlik AutoML & Cloud Analytics
 
 **Summary:** Leveraging data to proactively retain customers and drive business growth.  
 This project demonstrates an end-to-end analytical approach to predict customer churn for a telecommunications company. I utilized MySQL for robust data cleaning and engineering insightful new features, then employed Qlik Cloud Analytics' ML capabilities to build and evaluate a predictive model. The resulting Qlik Sense dashboard provides interactive visualizations of key churn drivers and actionable insights, enabling targeted strategies to reduce customer churn and optimize retention efforts.
